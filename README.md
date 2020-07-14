@@ -15,7 +15,7 @@ This GitHub repository provides for Alert signal detection and separation on iOS
 - Google AutoML Engine
 Use guide for iOS implementation. 
 ## License and Citation
-The codes are licensed under MIT license.
+The codes are licensed under open-source MIT license.
 
 
 ## Disclaimer
